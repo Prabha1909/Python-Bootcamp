@@ -12,6 +12,6 @@ print(s[2])
 print(s[-3])
 
 
-$String slicing
+#String slicing
 print(s[2:])
 print(s[::-1])

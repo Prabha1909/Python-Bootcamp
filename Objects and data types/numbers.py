@@ -15,3 +15,10 @@ print(3//2)
 
 #modulo
 print(5%3)
+
+#powers
+print(3**2)
+
+#Order of operation
+print((2+10) * (10+3))
+print(2 + 10 * 10 + 3)
